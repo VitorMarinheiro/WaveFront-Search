@@ -1,4 +1,5 @@
 # WaveFront Search
+O algoritmo WaveFront é um planejador de caminho de campo potencial especializado com busca em largura para evitar mínimos locais. Ele usa um círculo crescente ao redor do robô. Os vizinhos mais próximos são analisados ​​primeiro e, em seguida, o raio do círculo é estendido para regiões distantes.
 
 ![](https://github.com/VitorMarinheiro/WaveFront-Search/blob/main/readmegif.gif)
 
